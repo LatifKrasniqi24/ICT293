@@ -2,14 +2,14 @@
 
 Bienvenue sur le dépôt **Latif Website**, réalisé dans le cadre du cours **ICT293**.
 
-## 📁 Arborescence du repo
+---
+
+## 📁 Arborescence du projet
 
 ```bash
-
 exercice/
 ├── latif_website/
 │   ├── accueil/        → Contient la page d'accueil du site
-│   ├── site/           → Contient la page principale du site
-│   └── site_photo/     → Contient un une page de photo
+│   ├── site/           → Contient les pages principales du site
+│   └── site_photo/     → Contient les galeries ou images du site
 ├── README.md
-
