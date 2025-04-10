@@ -12,5 +12,6 @@ exercice/
 │   ├── accueil/        → Contient la page d'accueil du site
 │   ├── site/           → Contient les pages principales du site
 │   └── site_photo/     → Contient les galeries ou images du site
+├── lockedinalien       → Contient un site d'éxercice
 ├── README.md
 ```
