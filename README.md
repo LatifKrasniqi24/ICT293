@@ -1,6 +1,6 @@
 # 🌐 Latif Website - ICT293
 
-Bienvenue sur le dépôt **Latif Website**, réalisé dans le cadre du cours **ICT293**.
+Bienvenue sur le dépôt **ICT293**, réalisé dans le cadre du cours **ICT293**.
 
 ---
 
