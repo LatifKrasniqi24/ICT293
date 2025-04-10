@@ -1,4 +1,4 @@
-# 🌐 Latif Website - ICT293
+# 🌐 - ICT293 - Latif Krasniqi
 
 Bienvenue sur le dépôt **ICT293**, réalisé dans le cadre du cours **ICT293**.
 
