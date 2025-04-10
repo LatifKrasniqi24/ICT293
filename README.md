@@ -13,3 +13,4 @@ exercice/
 │   ├── site/           → Contient les pages principales du site
 │   └── site_photo/     → Contient les galeries ou images du site
 ├── README.md
+```
